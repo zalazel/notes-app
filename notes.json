@@ -1,4 +1,4 @@
-[{
-  "Title of the note" : "Body of the note",
-  "My First Note" : "Hello From Egypt!"
-}]
+[
+  {"Title of the note" : "Body of the note"},
+  {"My First Note" : "Hello From Egypt!"}
+]
